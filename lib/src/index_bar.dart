@@ -14,6 +14,7 @@ class IndexBarDetails {
 
 ///Default Index data.
 const List<String> INDEX_DATA_DEF = const [
+  "*",
   "A",
   "B",
   "C",
@@ -40,7 +41,6 @@ const List<String> INDEX_DATA_DEF = const [
   "X",
   "Y",
   "Z",
-  "#"
 ];
 
 /// IndexBar.
