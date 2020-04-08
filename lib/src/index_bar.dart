@@ -13,6 +13,7 @@ class IndexBarDetails {
 }
 
 ///Default Index data.
+//!-----------------------------
 const List<String> INDEX_DATA_DEF = const [
   "*",
   "A",
@@ -42,7 +43,7 @@ const List<String> INDEX_DATA_DEF = const [
   "Y",
   "Z",
 ];
-
+//!-----------------------------
 /// IndexBar.
 class IndexBar extends StatefulWidget {
   IndexBar(
